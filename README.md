@@ -44,6 +44,20 @@
   </tr>
 </table>
 
+<h2>Performance</h2>
+<p align="center">
+  <table border="0" cellpadding="15" cellspacing="0" style="background: #1a1a1a; border-radius: 8px;">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=shehaniroshana&show_icons=true&theme=radical&hide_border=true&icon_color=00FF00&title_color=00FF00&text_color=00FF00&bg_color=000000" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=shehaniroshana&theme=radical&hide_border=true&stroke=00FF00&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" />
+      </td>
+    </tr>
+  </table>
+</p>
+
 <h2>Contact</h2>
 <p align="center">
   <table border="0" cellpadding="8" cellspacing="0" style="background: #1a1a1a; border-radius: 8px;">
