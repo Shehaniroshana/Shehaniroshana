@@ -26,3 +26,8 @@ That's pretty much it.
 
 ---
 <img src="https://skillicons.dev/icons?i=go,java,python,js,ts,cpp,spring,nodejs,nestjs,angular,react,nextjs,postgres,mysql,mongodb,docker,kubernetes,godot,unity&perline=19" />
+
+
+<p align="left">
+  <a href="https://shehan-iroshana.vercel.app" target="_blank">🌐 Portfolio</a> •
+</p>
